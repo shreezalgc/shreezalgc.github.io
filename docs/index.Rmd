@@ -4,8 +4,8 @@ image: "shreezal.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/shreezal-g-c-625415106/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=M6yrHv4AAAAJ&hl=en"
   - label: GitHub
     url: "https://github.com/shreezalgc"
   - label: Email
