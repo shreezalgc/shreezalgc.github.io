@@ -1,11 +1,29 @@
 ---
-title: "SHREEZAL G.C."
-date: "2023-01-23"
-output: html_document
+title: "Shreezal G.C."
+image: "shreezal.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/shreezal-g-c-625415106/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/shreezalgc"
+  - label: Email
+    url: "mailto:shreezalgc@gmail.com"
+output:
+  postcards::trestles
 ---
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+I am an aspiring economist specializing on micro-econometrics related to health, labor and environmental issues. Currently, I work as a freelancer specializing on Monitoring and Evaluation component of research where my role is survey administration and data analytics. I have worked as a research associate for a couple of national and international projects and also as a graphic designer for a few national-level events in the past.
 
-## Page in progress
+## Education
+
+**Central Department of Economics, Tribhuvan University** | Kathmandu, Nepal
+
+Master of Arts in Economics | March 2018 - December 2021
+
+**Hansraj college, University of Delhi** | New Delhi, India
+
+B. Com Honors | July 2013 - July 2016
