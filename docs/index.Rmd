@@ -10,8 +10,7 @@ links:
     url: "https://github.com/shreezalgc"
   - label: Email
     url: "mailto:shreezalgc@gmail.com"
-  - label: CV
-    url: "https://shreezalgc.github.io/cv/CV_Shreezal.pdf"  
+ 
 output:
   postcards::trestles
 ---
