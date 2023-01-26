@@ -1,6 +1,6 @@
 ---
 title: "Shreezal G.C."
-image: "shreezal.jpeg"
+image: "shreezal.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/shreezal-g-c-625415106/"
