@@ -2,23 +2,25 @@
 title: "Shreezal G.C."
 image: "shreezal.jpg"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/shreezal-g-c-625415106/"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=M6yrHv4AAAAJ&hl=en"
   - label: GitHub
     url: "https://github.com/shreezalgc"
-  - label: Email
-    url: "mailto:shreezalgc@gmail.com"
   - label: CV
     url: "https://shreezalgc.github.io/cv/CV_Shreezal.pdf"
+  - label: Email
+    url: "mailto:shreezalgc@gmail.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/shreezal-g-c-625415106/"
+  - label: Photography
+    url: "https://500px.com/p/shreezalgc?view=photos"  
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-I am an aspiring economist specializing on micro-econometrics related to health, labor and environmental issues. Currently, I work as a freelancer specializing on Monitoring and Evaluation component of research where my role is survey administration and data analytics. I have worked as a research associate for a couple of national and international projects and also as a graphic designer for a few national-level events in the past.
+I am an aspiring economist specializing on micro-econometrics related to health, labor and environmental issues. Currently, I work as a freelancer specializing on micro-level data, program monitoring, evaluation and experimental research and data analytics. I have worked as a research associate for a couple of national and international projects and also as a graphic designer for a few national-level events in the past.
 
 ## Education
 
