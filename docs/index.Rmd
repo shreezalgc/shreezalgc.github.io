@@ -20,7 +20,7 @@ output:
  
 ## Bio
 
-I am an aspiring economist specializing on micro-econometrics related to health, labor and environmental issues. Currently, I work as a freelancer specializing on micro-level data, program monitoring, evaluation and experimental research and data analytics. I have worked as a research associate for a couple of national and international projects and also as a graphic designer for a few national-level events in the past.
+I am an aspiring economist specializing on micro-econometrics related to health, labor and environmental issues. Currently, I work as a freelancer specializing on micro-level data, program monitoring, evaluation, experimental research and data analytics. I have worked as a research associate for a couple of national and international projects and also as a graphic designer for a few national-level events in the past.
 
 ## Education
 
