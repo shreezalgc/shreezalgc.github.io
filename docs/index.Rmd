@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/shreezalgc"
   - label: CV
-    url: "https://shreezalgc.github.io/cv/CV_Shreezal.pdf"
+    url: "https://shreezalgc.github.io/cv/cv_shreezal.pdf"
   - label: Email
     url: "mailto:shreezalgc@gmail.com"
   - label: LinkedIn
